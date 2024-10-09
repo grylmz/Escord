@@ -1,0 +1,2 @@
+# Escord
+Çakma dc
